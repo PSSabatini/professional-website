@@ -1,11 +1,11 @@
 import { story } from './story';
-import ButtonNormal from './ButtonNormal.story.vue';
-import ButtonPrimary from './ButtonPrimary.story.vue';
+import CustomButtonNormal from './CustomButtonNormal.story.vue';
+import CustomButtonPrimary from './CustomButtonPrimary.story.vue';
 
 export default {
-    title: 'Button',
+    title: 'CustomButton',
 };
 
-export const normalButton = story(ButtonNormal);
+export const normalButton = story(CustomButtonNormal);
 
-export const primaryButton = story(ButtonPrimary);
+export const primaryButton = story(CustomButtonPrimary);
