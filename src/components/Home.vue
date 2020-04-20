@@ -24,11 +24,6 @@ export default {
 
 <style lang="scss">
 .home {
-  height: 100vh;
-  width: 100%;
-  background-color: #222831;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  background-color: #212227;
 }
 </style>

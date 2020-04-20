@@ -28,7 +28,7 @@ export default {
       }
 
       &:hover {
-        color:yellowgreen;
+        color:#FF2366;
       }
     }
   }
