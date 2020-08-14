@@ -1,14 +1,14 @@
 <template>
   <div class="home">
     <top-menu></top-menu>
-    <animation></animation>
+    <animation3></animation3>
     <footer-menu></footer-menu>
   </div>
 </template>
 
 <script>
 import TopMenu from './TopMenu.vue';
-import Animation from './Animation.vue'
+import Animation3 from './Animation3.vue'
 import FooterMenu from './FooterMenu.vue';
 
 export default {
@@ -16,7 +16,7 @@ export default {
 
   components: {
     TopMenu,
-    Animation,
+    Animation3,
     FooterMenu,
   },
 }
